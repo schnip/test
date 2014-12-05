@@ -1,0 +1,1 @@
+"B:\SteamLibrary\SteamApps\common\Arma 3\arma3.exe" -mod=@CBA_A3;@task_force_radio
